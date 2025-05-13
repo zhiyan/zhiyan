@@ -22,6 +22,6 @@ Crafting digital joy, our inner peace. 🧘✨
 
 ![Zhiyan's github activity graph](https://github-readme-activity-graph-indol.vercel.app/graph?username=zhiyan&bg_color=000000&color=8c8aff&line=5257ff&point=38e8ff&area=true&hide_border=true)
 
-<p><img align="left" src="https://github-readme-stats-dusky-sigma.vercel.app/api/top-langs?username=bhaumikmaan&show_icons=true&locale=en&layout=compact&hide_progress=true" alt="zhiyan" /></p>
+<p><img align="left" src="https://github-readme-stats-dusky-sigma.vercel.app/api/top-langs?username=zhiyan&show_icons=true&locale=en&layout=compact&hide_progress=true" alt="zhiyan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-dusky-sigma.vercel.app/api?username=zhiyan&count_private=true&show_icons=true&rank_icon=github" alt="zhiyan" /></p>
