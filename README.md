@@ -1,27 +1,16 @@
-<p align="center"> <img src="https://github.com/zhiyan/zhiyan/blob/main/header_white_.png" /> </p>
+## Hi, I'm Zhiyan 👋
 
-<h1 align="center">Zhiyan. Good at Meaningless Coding.</h1>
+A web developer, mainly working on front-end stuff with JavaScript / TypeScript, and occasionally playing with Node.js and PHP.
 
-<div align="center">  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
-</div> 
+- 🔭 Currently working with React / Vue
+- 🌱 Learning TypeScript and front-end engineering
+- 💬 Feel free to reach me if you have any questions
 
-<p align="center">
-No chains of commerce, ⛓️🚫 no race to run, 🏁💨 <br />
-Just lines of logic, 💻 spun for pure fun. 😄<br />
-In "Meaningless Coding," we find our release, 🕊️<br />
-Crafting digital joy, our inner peace. 🧘✨
-</p>
+### Languages & Tools
 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,express,webpack,vite,nginx,docker,mysql,bash,git&perline=15" />
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50" /> Languages & Tools <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50" /></h2>
+### GitHub Stats
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,less,sass,bootstrap,nodejs,npm,yarn,pnpm,nextjs,express,nestjs,babel,bun,webpack,jquery,nginx,docker,mysql,php,wordpress,bash,vscode,git,firebase,supabase&perline=15" />
-</p><br>
-
-
-![Zhiyan's github activity graph](https://github-readme-activity-graph-indol.vercel.app/graph?username=zhiyan&bg_color=000000&color=8c8aff&line=5257ff&point=38e8ff&area=true&hide_border=true)
-
-<p><img align="left" src="https://github-readme-stats-dusky-sigma.vercel.app/api/top-langs?username=zhiyan&show_icons=true&locale=en&layout=compact&hide_progress=true" alt="zhiyan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-dusky-sigma.vercel.app/api?username=zhiyan&count_private=true&show_icons=true&rank_icon=github" alt="zhiyan" /></p>
+<img src="https://github-readme-stats-dusky-sigma.vercel.app/api?username=zhiyan&count_private=true&show_icons=true&rank_icon=github" alt="zhiyan" />
+<img src="https://github-readme-stats-dusky-sigma.vercel.app/api/top-langs?username=zhiyan&show_icons=true&locale=en&layout=compact&hide_progress=true" alt="zhiyan" />
