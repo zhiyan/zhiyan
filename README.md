@@ -1,14 +1,14 @@
 ## Hi, I'm Zhiyan 👋
 
-A web developer, mainly working on front-end stuff with JavaScript / TypeScript, and occasionally playing with Node.js and PHP.
+An AI engineer working across the full stack of AI applications — from LLM-powered agents and backends to the web frontends that tie them together.
 
-- 🔭 Currently working with React / Vue
-- 🌱 Learning TypeScript and front-end engineering
+- 🔭 Currently building LLM agents and AI-native applications
+- 🌱 Exploring agent orchestration, RAG, and model engineering
 - 💬 Feel free to reach me if you have any questions
 
 ### Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,express,webpack,vite,nginx,docker,mysql,bash,git&perline=15" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,fastapi,nodejs,react,nextjs,pytorch,postgres,redis,docker,kubernetes,bash,git&perline=15" />
 
 ### GitHub Stats
 
